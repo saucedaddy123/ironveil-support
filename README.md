@@ -4,7 +4,7 @@ Iron Veil is a turn-based tactics campaign for iPhone. Thirteen kingdoms, 93 sce
 
 ## Contact
 
-Questions, bug reports and feedback: **sherwood_mousavi@hotmail.com**
+Questions, bug reports and feedback: **otfsherw@gmail.com**
 
 I read everything. If you are reporting a bug, it helps enormously to include your device model, your iOS version, and which scenario you were on.
 
